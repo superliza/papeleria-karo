@@ -17,3 +17,8 @@ int main() {
 void funcion() {
 	printf("%d", eNumero);
 }
+
+
+//HOLA
+
+//ADIOS
